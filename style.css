@@ -314,7 +314,7 @@ body {
     .info { font-size: 0.95rem; }
     .big-photo {
       max-width: 99vw;
-      height: 84px;
+      /* height: 84px; */
     }
     .big-photo-note { font-size: 0.85rem; max-width: 99vw; }
   }
