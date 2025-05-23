@@ -319,3 +319,21 @@ body {
     .big-photo-note { font-size: 0.85rem; max-width: 99vw; }
   }
   
+  .signature {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .signature-img {
+    width: 150px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  .signature-text {
+    font-size: 2rem;
+    font-style: italic;
+    font-family: 'Dancing Script', cursive;
+    color: #6d28d9;
+  }
+  
